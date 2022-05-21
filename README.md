@@ -1,1 +1,1 @@
-# sea_battle
+# One-sided sea battle on a python.
